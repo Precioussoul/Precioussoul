@@ -34,8 +34,6 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-## We can connect here:
-
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
