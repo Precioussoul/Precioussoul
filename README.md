@@ -34,9 +34,18 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+## We can connect here:
+
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiyullah-abdullah/)](https://www.linkedin.com/in/sofiyullah-abdullah) [![Twitter Badge](https://img.shields.io/badge/-@sofiyullah_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sofiyullah_dev)](https://twitter.com/sofiyullah_dev) [![Facebook Badge](https://img.shields.io/badge/-@precioussoul-habsof-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100065549805843)](https://web.facebook.com/profile.php?id=100065549805843)
+<p align="left">
+<a href="https://codepen.io/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Precioussoul" height="30" width="40" /></a>
+<a href="https://twitter.com/sofiyullah_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Precioussoul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sofiyullah-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deborahadeoye" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Precioussoul" height="30" width="40" /></a>
+<a href="https://instagram.com/codedrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dearly.debbie" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Precioussoul" height="30" width="40" /></a>
+</p>
 
    <summary>:zap: GitHub Stats</summary>
 
