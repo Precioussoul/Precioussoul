@@ -38,8 +38,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiyullah-abdullah/)](https://www.linkedin.com/in/sofiyullah-abdullah) [![Twitter Badge](https://img.shields.io/badge/-@sofiyullah_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sofiyullah_dev)](https://twitter.com/sofiyullah_dev) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100065549805843)](https://web.facebook.com/profile.php?id=100065549805843)
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Precioussoul&show_icons=true&title_color=ba926d&text_color=d4c8b9&bg_color=201f1d&hide_border=true&locale=en&layout=compact" alt="Preciossoul" /></div>
-
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=dark&title_color=ba926d&text_color=d4c8b9&bg_color=201f1d&hide_border=true&locale=en" alt="Precioussoul" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=dark&title_color=ba926d&text_color=d4c8b9&hide_border=true&locale=en" alt="Precioussoul" /></div>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Precioussoul&theme=dark" alt="Precioussoul" /></div>
