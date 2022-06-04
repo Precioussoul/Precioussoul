@@ -36,11 +36,8 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiyullah-abdullah/)](https://www.linkedin.com/in/sofiyullah-abdullah) [![Twitter Badge](https://img.shields.io/badge/-@sofiyullah_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sofiyullah_dev)](https://twitter.com/sofiyullah_dev) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100065549805843)](https://web.facebook.com/profile.php?id=100065549805843)
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofiyullah-abdullah/)](https://www.linkedin.com/in/sofiyullah-abdullah) [![Twitter Badge](https://img.shields.io/badge/-@sofiyullah_dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sofiyullah_dev)](https://twitter.com/sofiyullah_dev) [![Facebook Badge](https://img.shields.io/badge/-@precioussoul-habsof-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100065549805843)](https://web.facebook.com/profile.php?id=100065549805843)
 
- <details>
-  <summary>:zap: GitHub Stats</summary>
+   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
