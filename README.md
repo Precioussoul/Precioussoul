@@ -17,6 +17,7 @@
 
  </abc>
    <p> Recently deployed live project: https://hbs-drive.web.app/ </p> 
+    <p> My old portfolio: https://habsof.netlify.app/ 😶, currently working on new portfolio. </p> 
 </h2> 
 
   
