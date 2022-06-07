@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: CloudNative Development, Serverless App and Microservices.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- 😶 Actively Looking for Real World Industrial Experience (Internship or Full-time)<br>
+- 😶 Actively Looking for Real World Industrial Experience (Full-time or Internship)<br>
 
  </abc>
    <p> Recently deployed live project: https://hbs-drive.web.app/ </p> 
