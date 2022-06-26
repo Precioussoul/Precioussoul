@@ -48,13 +48,15 @@
 <a href="https://www.leetcode.com/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Precioussoul" height="30" width="40" /></a>
 </p> 
   
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]()
+  <h3 align="left"> ⚡Github Stats </h3> 
   
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precioussoul&theme=dark)](https://git.io/streak-stats) 
+  
+ <h4 align="left"> 🌤️ </h4> 
+ 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Precioussoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=5&theme=tokyonight)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) &nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=5&theme=tokyonight)]()
 
 
 
