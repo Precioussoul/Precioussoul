@@ -15,12 +15,6 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 😶 Actively Looking for Job (Full-time (100% remote) / Sponsored Visa or Internship)<br>
 
- </abc>
-   <p> Recently deployed live project: https://hbs-drive.web.app/ </p> 
-    <p> My old portfolio: https://habsof.netlify.app/ 😶, currently working on new portfolio. </p> 
-</h2> 
-
-  
  <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -41,6 +35,8 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
+
+
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
@@ -50,8 +46,15 @@
 <a href="https://stackoverflow.com/users/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Precioussoul" height="30" width="40" /></a>
 <a href="https://instagram.com/codedrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dearly.debbie" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Precioussoul" height="30" width="40" /></a>
-</p>
+</p> 
+  
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]()
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Precioussoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-   <summary>:zap: GitHub Stats</summary>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=5&theme=tokyonight)]()
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
