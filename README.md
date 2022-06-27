@@ -50,8 +50,9 @@
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp; 
- 
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp; [![Most Used language](https://github-readme-stats.vercel.app/api/top-langs?username=Precioussoul&show_icons=true&theme=tokyonight&showicons=true&locale=en&layout=compact)]()
+  
+  
   
  <h4 align="left"> 🌤️ </h4> 
  
