@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: CloudNative Development, Serverless App and Microservices.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- 😶 Actively Looking for Job (Full-time (100% remote) / Sponsored Visa or Internship)<br>
+- 📫 How to reach me:  habsoff@gmail.com <br>
 
  <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
