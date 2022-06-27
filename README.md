@@ -50,7 +50,7 @@
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precioussoul&theme=dark)](https://git.io/streak-stats) 
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp; 
   
  <h4 align="left"> 🌤️ </h4> 
  
