@@ -56,7 +56,7 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Precioussoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) &nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=5&theme=tokyonight)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) &nbsp;&nbsp; 
 
 
 
