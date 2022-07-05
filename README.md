@@ -35,18 +35,13 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-
-
-<h2 align="left">:heart: Let's get connected:</h2>
-
-<p align="left">
-<a href="https://codepen.io/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Precioussoul" height="30" width="40" /></a>
-<a href="https://twitter.com/sofiyullah_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Precioussoul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sofiyullah-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deborahadeoye" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Precioussoul" height="30" width="40" /></a>
-<a href="https://instagram.com/codedrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dearly.debbie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Precioussoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Precioussoul" height="30" width="40" /></a>
-</p> 
+ 
+ <h2 align="left">:zap: Let get connected:</h2>
+ <p> 
+  <a href="https://twitter.com/sofiyullah_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/sofiyullah-abdullah/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="habsof.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
@@ -64,3 +59,4 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Precioussoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ 
