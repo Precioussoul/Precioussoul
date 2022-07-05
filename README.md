@@ -50,15 +50,17 @@
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Precioussoul&count_private=true&theme=tokyonight&showicons=true)]() &nbsp; [![Most Used language](https://github-readme-stats.vercel.app/api/top-langs?username=Precioussoul&show_icons=true&theme=tokyonight&showicons=true&locale=en&layout=compact)]()
   
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=8&theme=tokyonight&layout=compact" />
+</a>
+ 
   
   
  <h4 align="left"> 🌤️ </h4> 
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Precioussoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Precioussoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) &nbsp;&nbsp; 
-
-
 
