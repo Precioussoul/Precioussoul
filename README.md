@@ -4,13 +4,15 @@
    I'm Sofiyullah 
   <br>
   <br> A Software Engineer and Frontend Developer (React + NodeJS) 💻 ⚡ <br>
+    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
+
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services (AWS)
 - :rocket: Always ready to collaborate for Dev Experiments
-- 🥅 2022 Goals: CloudNative Development, Serverless App and Microservices.
+- 🥅 2023 Goals: Blockchain Web3 Dapp Development and Mobile development.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 📫 How to reach me:  habsoff@gmail.com <br>
@@ -45,12 +47,17 @@
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
-  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precioussoul&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Precioussoul&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Precioussoul&theme=github)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Precioussoul&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ -->
+ 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=tokyonight&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=github&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=8&theme=tokyonight&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=8&theme=github&layout=compact" />
 </a>
  
   
