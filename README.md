@@ -59,7 +59,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=8&theme=github&layout=compact" />
 </a>
- 
+  
+![](https://raw.githubusercontent.com/Precioussoul/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
   
 
