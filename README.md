@@ -47,18 +47,14 @@
   
   <h3 align="left"> ⚡Github Stats </h3> 
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Precioussoul&theme=github)   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Precioussoul&theme=github)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precioussoul&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Precioussoul&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Precioussoul&theme=github)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Precioussoul&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Precioussoul&show_icons=true&theme=github&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&langs_count=8&theme=github&layout=compact" />
-</a>
+
+ 
   
 ![](https://raw.githubusercontent.com/Precioussoul/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
