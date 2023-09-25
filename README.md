@@ -1,12 +1,15 @@
 <div align="left">
- <abc>
-  <br>Hi  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, 
-   I'm Sofiyullah 
+ 
   <br>
-  <br> A Software Engineer and Frontend Developer (React + NodeJS) 💻 ⚡ <br>
-    <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
-
-
+ <b>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, 
+   I'm Sofiyullah </b>
+  <br>
+  <br>
+ <h3>  A Software Engineer and Frontend Developer (React + NodeJS) 💻 ⚡ 
+ 
+  </h3>  
+   <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
+ 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
