@@ -1,14 +1,12 @@
 <div align="left">
  
-  <br>
- <b>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, 
+  <b style="font-size:28">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, 
    I'm Sofiyullah </b>
   <br>
   <br>
- <h3>  A Software Engineer and Frontend Developer (React + NodeJS) 💻 ⚡ 
+ <h3>  A Software Engineer and Frontend Developer (React + NodeJS) 💻 ⚡ </h3>  
  
-  </h3>  
-   <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="100%"/>
+ ![](https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif)  
  
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -17,7 +15,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - 🥅 2023 Goals: Blockchain Web3 Dapp Development and Mobile development.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- :zap: Fun fact: I love to attend Meetups for learning and conferences for Networking
 - 📫 How to reach me:  habsoff@gmail.com <br>
 
  <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -47,7 +45,7 @@
   <a href="https://habsof.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://twitter.com/sofiyullah_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
-  
+</div> 
   <h3 align="left"> ⚡Github Stats </h3> 
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Precioussoul&theme=github)   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Precioussoul&theme=github)
