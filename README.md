@@ -13,7 +13,7 @@
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services (AWS)
 - :rocket: Always ready to collaborate for Dev Experiments
-- 🥅 2023 Goals: Blockchain Web3 Dapp Development and Mobile development.
+- 🥅 2024 Goals: Blockchain Web3 Dapp Development and Mobile development.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning and conferences for Networking
 - 📫 How to reach me:  habsoff@gmail.com <br>
