@@ -14,11 +14,11 @@
 ### 🧠 About Me
 
 - 💼 Full-Stack Engineer at **Benmore** — promoted from Frontend for exceptional delivery  
-- ⚒️ Delivered 4+ production-ready MVPs, single-handedly — React + Django + Tailwind stack  
-- 🧩 Strong frontend design systems, seamless APIs, and clean code  
+- ⚒️ Delivered 4+ production-ready MVPs, single-handedly — React + React Native (Expo) + Django + Django-REST + JavaScript/Typescript stack  
+- 🧩 Strong frontend design implementation, seamless APIs, and clean code  
 - 🌐 Web3-curious: Past internship at **Nethermind**, dabbled in EVM & smart contract tooling  
 - 🧪 TDD + CI/CD + GitHub Actions believer  
-- 🌱 Currently learning: System design, testing, React accessibility
+- 🌱 Currently learning: System design, Data-intensive Arch, SEO accessibility, and Golang.
 
 ---
 
@@ -42,12 +42,14 @@
 ### 🚀 Projects That Matter
 
 🛠️ **MVPs at Benmore**  
-→ 4+ client projects shipped from scratch using React, React Native, Typescript, Django, PostgreSQL, TailwindCSS  
-→ Full-stack ownership, API design, UI/UX, deployment & CI/CD
+→ client projects shipped from scratch using React, React Native, Typescript, Django, PostgreSQL, TailwindCSS  
+→ Full-stack ownership, Switch role Contributions (Frontend dev & backend dev), API design, UI/UX (Discover and Implement), deployment & CI/CD
 
 🧱 **Nethermind Internship**  
 → Built Web3 UIs & internal tools  
 → Worked with Wagmi, smart contract APIs, Wallet Connect
+→ Still learning web3 frontend development and other concepts, but not UI related, I'm confident in that area.
+
 
 ---
 
