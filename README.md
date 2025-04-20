@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precioussoul&theme=github" height="160" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&layout=compact&theme=tokyonight" height="160" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precioussoul&theme=github" height="auto" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&layout=compact&theme=tokyonight" height="160" width="45%" />
 </p>
 
 ---
