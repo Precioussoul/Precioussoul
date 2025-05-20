@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 💼 Full-Stack Engineer at **Benmore** — promoted from Frontend for exceptional delivery  
+- 💼 Full-Stack Engineer at **Open to Work-Immediate hiring**          Ex: _Benmore technologies_ — promoted from Frontend for exceptional delivery  
 - ⚒️ Delivered 4+ production-ready MVPs, single-handedly — React + React Native (Expo) + Django + Django-REST + JavaScript/Typescript stack  
 - 🧩 Strong frontend design implementation, seamless APIs, and clean code  
 - 🌐 Web3-curious: Past internship at **Nethermind**, dabbled in EVM & smart contract tooling  
