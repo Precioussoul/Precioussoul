@@ -1,75 +1,63 @@
-<h1 align="center">Hi there, I'm Sofiyullah 👋</h1>
+
+<h1 align="center">Hey — I'm Sofiyullah 👋</h1>
 <p align="center">
-  💻 Full-Stack Engineer • ⚡ Frontend Specialist • 🚀 MVP Builder
+  🛠️ Solo Full-Stack Developer • MVP Builder for Founders • Startup Tech Partner
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Crafting+Web+Experiences+End+to+End;Frontend+Lover+with+Full-Stack+Superpowers;React,+Next.js,+React+Native,+Python,+Django;" />
-</p>
-
-
-
----
-
-### 🧠 About Me
-
-- 💼 Full-Stack Engineer at **Open to Work-Immediate hiring**          Ex: _Benmore technologies_ — promoted from Frontend for exceptional delivery  
-- ⚒️ Delivered 4+ production-ready MVPs, single-handedly — React + React Native (Expo) + Django + Django-REST + JavaScript/Typescript stack  
-- 🧩 Strong frontend design implementation, seamless APIs, and clean code  
-- 🌐 Web3-curious: Past internship at **Nethermind**, dabbled in EVM & smart contract tooling  
-- 🧪 TDD + CI/CD + GitHub Actions believer  
-- 🌱 Currently learning: System design, Data-intensive Arch, SEO accessibility, and Golang.
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux,graphql,py,django,nodejs,express,postgres,redis,firebase,supabase,git,github,docker,aws,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=750&lines=From+Sketch+to+Scale+—+Without+Burning+Cash;Reliable+Full-Stack+Execution+for+Non-Technical+Founders;React,+Next.js,+React+Native,+Node.js,+Django" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🔍 Who I Help
+
+I'm a **solo full-stack engineer** partnering with early-stage, non-technical founders to:
+
+- ✅ Build & launch MVPs from scratch — React, React Native (Expo), Django, Node.js
+- ✅ Deliver fixed-scope, fixed-price MVPs (4–16 weeks)
+- ✅ Stay on post-launch via flexible monthly plans (starter & builder)
+
+---
+
+### ⚙️ My Stack
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precioussoul&theme=github" height="auto" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precioussoul&layout=compact&theme=tokyonight" height="160" width="45%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,html,css,tailwind,redux,graphql,py,django,nodejs,express,postgres,redis,firebase,supabase,git,github,docker,aws,linux" />
 </p>
 
 ---
 
-### 🚀 Projects That Matter
+### 🚀 Selected Work
 
-🛠️ **MVPs at Benmore**  
-→ client projects shipped from scratch using React, React Native, Typescript, Django, PostgreSQL, TailwindCSS  
-→ Full-stack ownership, Switch role Contributions (Frontend dev & backend dev), API design, UI/UX (Discover and Implement), deployment & CI/CD
+#### 🔧 **4+ Solo MVPs**  
+From UX to backend, CI/CD to deploy — fully shipped with  
+**React / React Native / Django / TailwindCSS / PostgreSQL**
 
-🧱 **Nethermind Internship**  
-→ Built Web3 UIs & internal tools  
-→ Worked with Wagmi, smart contract APIs, Wallet Connect
-→ Still learning web3 frontend development and other concepts, but not UI related, I'm confident in that area.
+#### 🧱 **Nethermind Internship**  
+Built Web3 dashboards & dApps — learned wallet integrations, smart contract APIs  
+(Still web3-curious, but no fluff — I only take work I can execute confidently.)
 
-
----
-
-### 🧩 What I Bring
-
-✅ Frontend polish with system thinking  
-✅ Full-stack fluency and strong product sense  
-✅ Ownership, fast iteration, and team communication  
-✅ MVP-to-scale mindset
+#### 🧩 **Founder Support Plans**  
+Long-term async collaboration for founders needing a fractional technical partner, not a full-blown dev team.
 
 ---
 
-### 📬 Let's Connect!
+### ✅ What I Bring
 
-- 🖇️ [LinkedIn](https://linkedin.com/in/sofiyullah-abdullah)  
-- 🌐 [Portfolio](https://habsof.vercel.app)
+- 💡 Product-minded engineering  
+- 🚀 Speed without burnout  
+- 🎯 Clear, async communication  
+- 🧠 Clean handoff or continued iteration
+
+---
+
+### 📬 Let’s Connect
+
+- 🌍 [Website](https://sofiyullah.dev)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sofiyullah-abdullah)  
 - 🐦 [Twitter](https://twitter.com/sofiyullah_dev)
 
 ---
 
-> 💡 *Looking to join a mission-driven team building intuitive, impactful products.*
-
- 
+> 🎯 Looking for 2 serious founders to partner with in 2025. Fixed-price MVPs. No agencies. No fluff.
