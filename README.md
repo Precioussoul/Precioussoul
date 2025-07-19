@@ -1,22 +1,29 @@
-
+ 
 <h1 align="center">Hey — I'm Sofiyullah 👋</h1>
 <p align="center">
-  🛠️ Solo Full-Stack Developer • MVP Builder for Founders • Startup Tech Partner
+  🛠️ Product Engineer • Solo Full-Stack Builder • Startup Tech Partner
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=750&lines=From+Sketch+to+Scale+—+Without+Burning+Cash;Reliable+Full-Stack+Execution+for+Non-Technical+Founders;React,+Next.js,+React+Native,+Node.js,+Django" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=750&lines=Design+to+Deploy+Without+the+Overhead;Product-Focused+Engineering+for+MVPs+That+Grow;React,+Next.js,+React+Native,+Node.js,+Django" />
 </p>
 
 ---
 
-### 🔍 Who I Help
+### 🎯 Who I Help
+  
 
-I'm a **solo full-stack engineer** partnering with early-stage, non-technical founders to:
+As a **Product Engineer**, I collaborate closely with teams to build scalable, user-focused products — not just ship features:
 
-- ✅ Build & launch MVPs from scratch — React, React Native (Expo), Django, Node.js
-- ✅ Deliver fixed-scope, fixed-price MVPs (4–16 weeks)
-- ✅ Stay on post-launch via flexible monthly plans (starter & builder)
+* ✅ Bridge engineering and product to align every sprint with real business outcomes
+* ✅ Contribute across the stack for faster delivery, tighter feedback loops, and smoother collaboration
+* ✅ Keep products healthy post-launch through lean iteration, observability, and thoughtful refactoring
+
+As a **solo full-stack MVP builder**, I help early-stage, non-technical founders:
+
+* ✅ Launch MVPs in 4–16 weeks (React, React Native, Django, Node.js)
+* ✅ Work async with clean handoff or continuous iteration
+* ✅ Stay lean post-launch with no-bloat monthly plans
 
 ---
 
@@ -28,36 +35,45 @@ I'm a **solo full-stack engineer** partnering with early-stage, non-technical fo
 
 ---
 
-### 🚀 Selected Work
+### 🧠 What I Bring
 
-#### 🔧 **4+ Solo MVPs**  
-From UX to backend, CI/CD to deploy — fully shipped with  
-**React / React Native / Django / TailwindCSS / PostgreSQL**
-
-#### 🧱 **Nethermind Internship**  
-Built Web3 dashboards & dApps — learned wallet integrations, smart contract APIs  
-(Still web3-curious, but no fluff — I only take work I can execute confidently.)
-
-#### 🧩 **Founder Support Plans**  
-Long-term async collaboration for founders needing a fractional technical partner, not a full-blown dev team.
+* 🧩 Product-thinking from first sketch to post-launch growth
+* ⚡ Rapid iteration with real-world constraints in mind
+* 🧘 Calm delivery, async communication, and zero hand-holding needed
+* 🧪 Proven across 4+ solo MVPs and a Web3 internship at Nethermind
 
 ---
 
-### ✅ What I Bring
+### 🧰 Selected Work
 
-- 💡 Product-minded engineering  
-- 🚀 Speed without burnout  
-- 🎯 Clear, async communication  
-- 🧠 Clean handoff or continued iteration
+#### ✅ **4+ Full-Stack MVPs**
+
+Built solo, end-to-end — shipped with
+**React / React Native / Django / PostgreSQL / Tailwind**
+
+#### 🌐 **Web3 Internship @ Nethermind**
+
+Contributed to real-world dApps and dashboards using wallet + contract APIs.
+(Still Web3-curious, only take what I can deliver well.)
+
+#### 🛠️ **Ongoing Founder Support**
+
+Fractional product engineering for post-MVP growth.
+
+---
+ 
+### 🤝 Work With Me
+
+* 📬 [Explore](https://linktr.ee/sofiyullah_dev)
+* 🔗 [LinkedIn](https://linkedin.com/in/sofiyullah-abdullah)
+* 🐦 [Twitter](https://twitter.com/sofiyullah_dev)
 
 ---
 
-### 📬 Let’s Connect
+> 💼 Open to:
+>
+> * Product Engineering roles (frontend-heavy or full-stack)
+> * Solo MVP builds for serious founders
+> * No agencies. No fluff. Just focused shipping.
 
-- 🌍 [Website](https://sofiyullah.dev)  
-- 🔗 [LinkedIn](https://linkedin.com/in/sofiyullah-abdullah)  
-- 🐦 [Twitter](https://twitter.com/sofiyullah_dev)
-
----
-
-> 🎯 Looking for 2 serious founders to partner with in 2025. Fixed-price MVPs. No agencies. No fluff.
+ 
