@@ -21,7 +21,7 @@ As a **Product Engineer**, I collaborate closely with teams to build scalable, u
 
 As a **solo full-stack MVP builder**, I help early-stage, non-technical founders:
 
-* ✅ Launch MVPs in 4–16 weeks (React, React Native, Django, Node.js)
+* ✅ Direct Partnership as a founder's engineer , direct reporting and vision alignment (React, React Native, Django, Node.js)
 * ✅ Work async with clean handoff or continuous iteration
 * ✅ Stay lean post-launch with no-bloat monthly plans
 
